@@ -38,8 +38,8 @@ p {
     font-size: 1.2em;
     font-family: var(--firstfont);
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 15px;
+    padding-top: 20px;
+    padding-bottom: 15px;
 }
 
 a {
